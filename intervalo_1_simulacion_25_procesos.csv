@@ -1,0 +1,26 @@
+Cantidad de Procesos,Nombre,Hora de Inicio,Hora de Fin,Tiempo Total
+25,process_0,0,1,1
+25,process_1,1,10,9
+25,process_2,2,5,3
+25,process_3,3,9,6
+25,process_4,4,8,4
+25,process_5,5,8,3
+25,process_6,6,9,3
+25,process_7,7,14,7
+25,process_8,8,9,1
+25,process_9,9,15,6
+25,process_10,10,13,3
+25,process_11,11,14,3
+25,process_12,12,20,8
+25,process_13,13,22,9
+25,process_14,14,23,9
+25,process_15,15,18,3
+25,process_16,16,21,5
+25,process_17,17,22,5
+25,process_18,18,22,4
+25,process_19,19,23,4
+25,process_20,20,24,4
+25,process_21,21,24,3
+25,process_22,22,24,2
+25,process_23,23,27,4
+25,process_24,24,27,3
